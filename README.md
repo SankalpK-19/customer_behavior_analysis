@@ -41,7 +41,6 @@ The dataset initially contained **37 missing values in the Review Rating column*
 | **PostgreSQL**       | Database storage and SQL analysis                   |
 | **SQL**              | Business-focused data analysis                      |
 | **Power BI**         | Interactive dashboard and visualization             |
-| **CSV**              | Source dataset                                      |
 
 ---
 
